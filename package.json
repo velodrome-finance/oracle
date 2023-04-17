@@ -1,0 +1,25 @@
+{
+  "name": "oracle",
+  "version": "1.0.0",
+  "description": "The Optimism Prices contracts are a lightweight, trustless, and reliable method of pricing tokens on Optimism.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/velodrome-finance/oracle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/velodrome-finance/oracle/issues"
+  },
+  "homepage": "https://github.com/velodrome-finance/oracle#readme",
+  "dependencies": {
+    "@nomicfoundation/hardhat-foundry": "^1.0.1",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@tenderly/hardhat-tenderly": "^1.7.1",
+    "dotenv": "^16.0.3"
+  }
+}

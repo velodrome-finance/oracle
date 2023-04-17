@@ -1,5 +1,7 @@
 __pycache__
 .env
+node_modules
+tenderly.yaml
 .history
 .hypothesis/
 build/
